@@ -156,3 +156,4 @@ prose:
         field: 
             element: text
             label: "International and National References"
+theme: jekyll-theme-minimal
